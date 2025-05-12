@@ -1,0 +1,977 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\trapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\trapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\trapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\trapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\romboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\romboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\romboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\romboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\trapecioiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\trapecioiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\trapecioiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\trapecioiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\trapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\trapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\trapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\trapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|c:\\users\\legion\\desktop\\figurastarea\\figurastarea\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\fhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\fhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\fhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\fhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\heptagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\heptagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\heptagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\heptagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\ctriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\ctriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\ctrapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\ctrapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\ctrapecioiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\ctrapecioiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\ctrapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\ctrapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\cromboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\cromboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\crombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\crombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\rombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\rombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\crectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\crectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\cpentagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\cpentagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\pentagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\pentagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\covalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\covalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\ovalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\ovalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\coctagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\coctagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\octagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\octagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\chexagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\chexagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\hexagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\hexagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\cheptagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\cheptagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\ceneagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\ceneagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\eneagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\eneagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\celipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\celipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\elipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\elipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\cdeltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\cdeltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\deltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\deltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\cdecagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\cdecagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\decagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\decagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\ccuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\ccuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\ccirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\ccirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\decagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\decagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\deltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\deltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\elipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\elipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\eneagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\eneagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\hexagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\hexagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\octagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\octagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\ovalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\ovalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\pentagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\pentagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\rombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\rombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|C:\\Users\\LEGION\\Desktop\\FigurasTarea\\figurastarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471DE5B1-0C80-474A-80FB-B02ACFBB9612}|FigurasTarea\\FigurasTarea.csproj|solutionrelative:figurastarea\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "trapecioIso.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\trapecioIso.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\trapecioIso.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\trapecioIso.cs",
+              "RelativeToolTip": "FigurasTarea\\trapecioIso.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vyQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:02:35.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "trapecio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\trapecio.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\trapecio.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\trapecio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasTarea\\trapecio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:14:10.787Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "trapecio.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\trapecio.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\trapecio.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\trapecio.cs",
+              "RelativeToolTip": "FigurasTarea\\trapecio.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAuwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:25:01.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "romboide.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\romboide.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\romboide.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\romboide.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasTarea\\romboide.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:31:25.357Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "romboide.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\romboide.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\romboide.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\romboide.cs",
+              "RelativeToolTip": "FigurasTarea\\romboide.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAewEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:50:31.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "trapecioIso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\trapecioIso.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\trapecioIso.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\trapecioIso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasTarea\\trapecioIso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:39:55.785Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "trapezoide.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\trapezoide.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\trapezoide.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\trapezoide.cs",
+              "RelativeToolTip": "FigurasTarea\\trapezoide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:10:57.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "trapezoide.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\trapezoide.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\trapezoide.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\trapezoide.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasTarea\\trapezoide.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T06:10:39.41Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\triangulo.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\triangulo.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\triangulo.cs",
+              "RelativeToolTip": "FigurasTarea\\triangulo.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:01:02.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "triangulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\triangulo.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\triangulo.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\triangulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasTarea\\triangulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:10:38.197Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FHome.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\FHome.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\FHome.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\FHome.cs",
+              "RelativeToolTip": "FigurasTarea\\FHome.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwEwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T21:22:36.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FHome.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\FHome.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\FHome.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\FHome.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasTarea\\FHome.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:29:31.642Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "circulo.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\circulo.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\circulo.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\circulo.cs",
+              "RelativeToolTip": "FigurasTarea\\circulo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:53:36.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "circulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\circulo.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\circulo.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\circulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasTarea\\circulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:13:46.438Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "heptagono.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\heptagono.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\heptagono.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\heptagono.cs",
+              "RelativeToolTip": "FigurasTarea\\heptagono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:52:02.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "heptagono.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\heptagono.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\heptagono.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\heptagono.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasTarea\\heptagono.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:31:46.451Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CTriangulo.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CTriangulo.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\CTriangulo.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CTriangulo.cs",
+              "RelativeToolTip": "FigurasTarea\\CTriangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:56:27.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CTrapezoide.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CTrapezoide.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\CTrapezoide.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CTrapezoide.cs",
+              "RelativeToolTip": "FigurasTarea\\CTrapezoide.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:56:15.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CTrapecioIso.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CTrapecioIso.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\CTrapecioIso.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CTrapecioIso.cs",
+              "RelativeToolTip": "FigurasTarea\\CTrapecioIso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:56:01.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CTrapecio.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CTrapecio.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\CTrapecio.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CTrapecio.cs",
+              "RelativeToolTip": "FigurasTarea\\CTrapecio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:55:42.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CRomboide.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CRomboide.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\CRomboide.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CRomboide.cs",
+              "RelativeToolTip": "FigurasTarea\\CRomboide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:55:28.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CRombo.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CRombo.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\CRombo.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CRombo.cs",
+              "RelativeToolTip": "FigurasTarea\\CRombo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:55:10.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "rombo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\rombo.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\rombo.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\rombo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasTarea\\rombo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:13:01.317Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CRectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CRectangulo.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\CRectangulo.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CRectangulo.cs",
+              "RelativeToolTip": "FigurasTarea\\CRectangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:53:38.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "rectangulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\rectangulo.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\rectangulo.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\rectangulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasTarea\\rectangulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:12:40.113Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CPentagono.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CPentagono.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\CPentagono.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CPentagono.cs",
+              "RelativeToolTip": "FigurasTarea\\CPentagono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:53:04.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "pentagono.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\pentagono.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\pentagono.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\pentagono.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasTarea\\pentagono.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:13:21.061Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "COvalo.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\COvalo.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\COvalo.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\COvalo.cs",
+              "RelativeToolTip": "FigurasTarea\\COvalo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:52:49.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ovalo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\ovalo.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\ovalo.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\ovalo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasTarea\\ovalo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:29:40.921Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "COctagono.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\COctagono.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\COctagono.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\COctagono.cs",
+              "RelativeToolTip": "FigurasTarea\\COctagono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:18:25.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "octagono.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\octagono.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\octagono.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\octagono.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasTarea\\octagono.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:27:29.997Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CHexagono.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CHexagono.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\CHexagono.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CHexagono.cs",
+              "RelativeToolTip": "FigurasTarea\\CHexagono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:52:12.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "hexagono.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\hexagono.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\hexagono.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\hexagono.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasTarea\\hexagono.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:28:08.407Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CHeptagono.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CHeptagono.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\CHeptagono.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CHeptagono.cs",
+              "RelativeToolTip": "FigurasTarea\\CHeptagono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:51:57.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CEneagono.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CEneagono.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\CEneagono.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CEneagono.cs",
+              "RelativeToolTip": "FigurasTarea\\CEneagono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:51:31.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "eneagono.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\eneagono.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\eneagono.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\eneagono.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasTarea\\eneagono.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:33:14.935Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CElipse.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CElipse.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\CElipse.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CElipse.cs",
+              "RelativeToolTip": "FigurasTarea\\CElipse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:51:13.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "elipse.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\elipse.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\elipse.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\elipse.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasTarea\\elipse.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:29:14.779Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CDeltoide.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CDeltoide.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\CDeltoide.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CDeltoide.cs",
+              "RelativeToolTip": "FigurasTarea\\CDeltoide.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:51:01.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "deltoide.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\deltoide.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\deltoide.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\deltoide.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasTarea\\deltoide.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:30:19.458Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CDecagono.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CDecagono.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\CDecagono.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CDecagono.cs",
+              "RelativeToolTip": "FigurasTarea\\CDecagono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:50:46.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "decagono.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\decagono.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\decagono.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\decagono.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasTarea\\decagono.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:32:26.225Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Ccuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\Ccuadrado.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\Ccuadrado.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\Ccuadrado.cs",
+              "RelativeToolTip": "FigurasTarea\\Ccuadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:29:42.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "cuadrado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\cuadrado.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\cuadrado.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\cuadrado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasTarea\\cuadrado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:12:14.107Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CCirculo.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CCirculo.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\CCirculo.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\CCirculo.cs",
+              "RelativeToolTip": "FigurasTarea\\CCirculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:50:08.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\cuadrado.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\cuadrado.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\cuadrado.cs",
+              "RelativeToolTip": "FigurasTarea\\cuadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:19:18.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "decagono.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\decagono.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\decagono.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\decagono.cs",
+              "RelativeToolTip": "FigurasTarea\\decagono.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAA8wCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:54:06.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "deltoide.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\deltoide.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\deltoide.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\deltoide.cs",
+              "RelativeToolTip": "FigurasTarea\\deltoide.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:46:40.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "elipse.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\elipse.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\elipse.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\elipse.cs",
+              "RelativeToolTip": "FigurasTarea\\elipse.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:41:12.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "eneagono.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\eneagono.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\eneagono.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\eneagono.cs",
+              "RelativeToolTip": "FigurasTarea\\eneagono.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:55:42.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "hexagono.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\hexagono.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\hexagono.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\hexagono.cs",
+              "RelativeToolTip": "FigurasTarea\\hexagono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:39:14.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "octagono.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\octagono.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\octagono.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\octagono.cs",
+              "RelativeToolTip": "FigurasTarea\\octagono.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T05:34:54.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ovalo.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\ovalo.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\ovalo.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\ovalo.cs",
+              "RelativeToolTip": "FigurasTarea\\ovalo.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAcwDwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:29:33.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "pentagono.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\pentagono.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\pentagono.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\pentagono.cs",
+              "RelativeToolTip": "FigurasTarea\\pentagono.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:40:28.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\rectangulo.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\rectangulo.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\rectangulo.cs",
+              "RelativeToolTip": "FigurasTarea\\rectangulo.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAADwv0YAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:23:34.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "rombo.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\rombo.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\rombo.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\rombo.cs",
+              "RelativeToolTip": "FigurasTarea\\rombo.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwEgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:51:12.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\Program.cs",
+              "RelativeDocumentMoniker": "FigurasTarea\\Program.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasTarea\\FigurasTarea\\Program.cs",
+              "RelativeToolTip": "FigurasTarea\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T00:33:55.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
