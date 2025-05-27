@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|c:\\users\\legion\\desktop\\figurasgeometricasdibujar\\figurasgeometricasdibujar\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|solutionrelative:figurasgeometricasdibujar\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\figurasgeometricasdibujar\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|solutionrelative:figurasgeometricasdibujar\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\figurasgeometricasdibujar\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|solutionrelative:figurasgeometricasdibujar\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\figurasgeometricasdibujar\\ctrapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|solutionrelative:figurasgeometricasdibujar\\ctrapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\figurasgeometricasdibujar\\cromboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|solutionrelative:figurasgeometricasdibujar\\cromboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\figurasgeometricasdibujar\\crombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|solutionrelative:figurasgeometricasdibujar\\crombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\figurasgeometricasdibujar\\cpentagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|solutionrelative:figurasgeometricasdibujar\\cpentagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\figurasgeometricasdibujar\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|solutionrelative:figurasgeometricasdibujar\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\figurasgeometricasdibujar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|solutionrelative:figurasgeometricasdibujar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\figurasgeometricasdibujar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|solutionrelative:figurasgeometricasdibujar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|c:\\users\\legion\\desktop\\figurasgeometricasdibujar\\figurasgeometricasdibujar\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|solutionrelative:figurasgeometricasdibujar\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\figurasgeometricasdibujar\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|solutionrelative:figurasgeometricasdibujar\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\figurasgeometricasdibujar\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|solutionrelative:figurasgeometricasdibujar\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\figurasgeometricasdibujar\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|solutionrelative:figurasgeometricasdibujar\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\figurasgeometricasdibujar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2BE2DA7-920C-431F-9000-D9D292C3B503}|FigurasGeometricasDibujar\\FigurasGeometricasDibujar.csproj|solutionrelative:figurasgeometricasdibujar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRomboide.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\CRomboide.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricasDibujar\\CRomboide.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\CRomboide.cs",
+              "RelativeToolTip": "FigurasGeometricasDibujar\\CRomboide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:20:56.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Form4.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricasDibujar\\Form4.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasGeometricasDibujar\\Form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:17:17.996Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CTrapezoide.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\CTrapezoide.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricasDibujar\\CTrapezoide.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\CTrapezoide.cs",
+              "RelativeToolTip": "FigurasGeometricasDibujar\\CTrapezoide.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswG4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:22:20.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Home.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricasDibujar\\Home.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Home.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasGeometricasDibujar\\Home.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:19:03.695Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Form4.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricasDibujar\\Form4.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Form4.cs",
+              "RelativeToolTip": "FigurasGeometricasDibujar\\Form4.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T02:30:47.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CRombo.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\CRombo.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricasDibujar\\CRombo.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\CRombo.cs",
+              "RelativeToolTip": "FigurasGeometricasDibujar\\CRombo.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAqwFEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:19:46.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CPentagono.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\CPentagono.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricasDibujar\\CPentagono.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\CPentagono.cs",
+              "RelativeToolTip": "FigurasGeometricasDibujar\\CPentagono.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:20:27.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Home.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricasDibujar\\Home.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Home.cs",
+              "RelativeToolTip": "FigurasGeometricasDibujar\\Home.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:40:01.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Form1.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricasDibujar\\Form1.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Form1.cs",
+              "RelativeToolTip": "FigurasGeometricasDibujar\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:35:00.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Form1.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricasDibujar\\Form1.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasGeometricasDibujar\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:16:41.391Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Form3.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricasDibujar\\Form3.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasGeometricasDibujar\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:17:07.854Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Form3.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricasDibujar\\Form3.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Form3.cs",
+              "RelativeToolTip": "FigurasGeometricasDibujar\\Form3.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAYwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:18:12.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Form2.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricasDibujar\\Form2.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasGeometricasDibujar\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:16:59.853Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Form2.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricasDibujar\\Form2.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Form2.cs",
+              "RelativeToolTip": "FigurasGeometricasDibujar\\Form2.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T23:50:19.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Program.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricasDibujar\\Program.cs",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\FigurasGeometricasDibujar\\FigurasGeometricasDibujar\\Program.cs",
+              "RelativeToolTip": "FigurasGeometricasDibujar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T23:02:44.854Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

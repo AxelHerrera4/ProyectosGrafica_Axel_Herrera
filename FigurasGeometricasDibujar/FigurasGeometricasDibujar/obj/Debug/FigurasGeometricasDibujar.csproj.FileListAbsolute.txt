@@ -1,0 +1,15 @@
+C:\Users\LEGION\Desktop\FigurasGeometricasDibujar\FigurasGeometricasDibujar\bin\Debug\FigurasGeometricasDibujar.exe.config
+C:\Users\LEGION\Desktop\FigurasGeometricasDibujar\FigurasGeometricasDibujar\bin\Debug\FigurasGeometricasDibujar.exe
+C:\Users\LEGION\Desktop\FigurasGeometricasDibujar\FigurasGeometricasDibujar\bin\Debug\FigurasGeometricasDibujar.pdb
+C:\Users\LEGION\Desktop\FigurasGeometricasDibujar\FigurasGeometricasDibujar\obj\Debug\FigurasGeometricasDibujar.csproj.AssemblyReference.cache
+C:\Users\LEGION\Desktop\FigurasGeometricasDibujar\FigurasGeometricasDibujar\obj\Debug\FigurasGeometricasDibujar.Form1.resources
+C:\Users\LEGION\Desktop\FigurasGeometricasDibujar\FigurasGeometricasDibujar\obj\Debug\FigurasGeometricasDibujar.Home.resources
+C:\Users\LEGION\Desktop\FigurasGeometricasDibujar\FigurasGeometricasDibujar\obj\Debug\FigurasGeometricasDibujar.Properties.Resources.resources
+C:\Users\LEGION\Desktop\FigurasGeometricasDibujar\FigurasGeometricasDibujar\obj\Debug\FigurasGeometricasDibujar.csproj.GenerateResource.cache
+C:\Users\LEGION\Desktop\FigurasGeometricasDibujar\FigurasGeometricasDibujar\obj\Debug\FigurasGeometricasDibujar.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Desktop\FigurasGeometricasDibujar\FigurasGeometricasDibujar\obj\Debug\FigurasGeometricasDibujar.exe
+C:\Users\LEGION\Desktop\FigurasGeometricasDibujar\FigurasGeometricasDibujar\obj\Debug\FigurasGeometricasDibujar.pdb
+C:\Users\LEGION\Desktop\FigurasGeometricasDibujar\FigurasGeometricasDibujar\obj\Debug\FigurasGeometricasDibujar.csproj.ResolveComReference.cache
+C:\Users\LEGION\Desktop\FigurasGeometricasDibujar\FigurasGeometricasDibujar\obj\Debug\FigurasGeometricasDibujar.Form2.resources
+C:\Users\LEGION\Desktop\FigurasGeometricasDibujar\FigurasGeometricasDibujar\obj\Debug\FigurasGeometricasDibujar.Form3.resources
+C:\Users\LEGION\Desktop\FigurasGeometricasDibujar\FigurasGeometricasDibujar\obj\Debug\FigurasGeometricasDibujar.Form4.resources
