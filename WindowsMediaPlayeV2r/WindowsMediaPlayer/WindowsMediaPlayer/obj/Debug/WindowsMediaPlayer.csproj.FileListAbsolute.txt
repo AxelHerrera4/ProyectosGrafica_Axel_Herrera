@@ -1,0 +1,108 @@
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe.config
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.pdb
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Asio.dll
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Core.dll
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.dll
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Midi.dll
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Wasapi.dll
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.WinForms.dll
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.WinMM.dll
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\System.Security.AccessControl.dll
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.xml
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Asio.xml
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Core.xml
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Midi.xml
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Wasapi.xml
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.WinForms.xml
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.WinMM.xml
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\System.Security.AccessControl.xml
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.AssemblyReference.cache
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.Form1.resources
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.Properties.Resources.resources
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.GenerateResource.cache
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsM.6538BF8B.Up2Date
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.exe
+C:\Users\LEGION\Desktop\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.pdb
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe.config
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.pdb
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Asio.dll
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Core.dll
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.dll
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Midi.dll
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.WinForms.dll
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.WinMM.dll
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.xml
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Asio.xml
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Core.xml
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Midi.xml
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.WinForms.xml
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.WinMM.xml
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.AssemblyReference.cache
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.Form1.resources
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.Properties.Resources.resources
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsM.6538BF8B.Up2Date
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.exe
+C:\Users\Alexander\Desktop\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.pdb
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe.config
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.exe
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\WindowsMediaPlayer.pdb
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Microsoft.Win32.Registry.dll
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Asio.dll
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Core.dll
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.dll
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Midi.dll
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Wasapi.dll
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.WinForms.dll
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.WinMM.dll
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\System.Security.AccessControl.dll
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\System.Security.Principal.Windows.dll
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Microsoft.Win32.Registry.xml
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.xml
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Asio.xml
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Core.xml
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Midi.xml
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.Wasapi.xml
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.WinForms.xml
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\NAudio.WinMM.xml
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\System.Security.AccessControl.xml
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\System.Security.Principal.Windows.xml
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\Interop.WMPLib.dll
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.AssemblyReference.cache
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\Interop.WMPLib.dll
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.ResolveComReference.cache
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.Form1.resources
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.Properties.Resources.resources
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.GenerateResource.cache
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.csproj.CoreCompileInputs.cache
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsM.6538BF8B.Up2Date
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.exe
+D:\U, dolor de cabeza\OCTAVO SEMESTRE\Grafica\WindowsMediaPlayeV2r\WindowsMediaPlayeV2r\WindowsMediaPlayer\WindowsMediaPlayer\obj\Debug\WindowsMediaPlayer.pdb
