@@ -11,3 +11,4 @@ D:\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Form2.resources
 D:\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Form3.resources
 D:\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Form1.resources
 D:\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Form4.resources
+D:\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Home.resources

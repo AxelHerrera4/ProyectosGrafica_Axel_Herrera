@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "D:\\Algoritmos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC9F5126-9294-430E-AC0B-EF5BC1B11593}|Algoritmos\\Algoritmos.csproj|D:\\Algoritmos\\algoritmos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC9F5126-9294-430E-AC0B-EF5BC1B11593}|Algoritmos\\Algoritmos.csproj|d:\\algoritmos\\algoritmos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC9F5126-9294-430E-AC0B-EF5BC1B11593}|Algoritmos\\Algoritmos.csproj|solutionrelative:algoritmos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC9F5126-9294-430E-AC0B-EF5BC1B11593}|Algoritmos\\Algoritmos.csproj|d:\\algoritmos\\algoritmos\\midpointcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC9F5126-9294-430E-AC0B-EF5BC1B11593}|Algoritmos\\Algoritmos.csproj|d:\\algoritmos\\algoritmos\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9F5126-9294-430E-AC0B-EF5BC1B11593}|Algoritmos\\Algoritmos.csproj|solutionrelative:algoritmos\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9F5126-9294-430E-AC0B-EF5BC1B11593}|Algoritmos\\Algoritmos.csproj|d:\\algoritmos\\algoritmos\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC9F5126-9294-430E-AC0B-EF5BC1B11593}|Algoritmos\\Algoritmos.csproj|solutionrelative:algoritmos\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9F5126-9294-430E-AC0B-EF5BC1B11593}|Algoritmos\\Algoritmos.csproj|D:\\Algoritmos\\algoritmos\\midpointcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC9F5126-9294-430E-AC0B-EF5BC1B11593}|Algoritmos\\Algoritmos.csproj|solutionrelative:algoritmos\\midpointcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -62,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,18 +82,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Algoritmos\\Algoritmos\\Form1.cs",
-              "RelativeDocumentMoniker": "Algoritmos\\Form1.cs",
-              "ToolTip": "D:\\Algoritmos\\Algoritmos\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Algoritmos\\Form1.cs [Dise\u00F1o]",
+              "DocumentIndex": 1,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\Algoritmos\\Algoritmos\\Home.cs",
+              "RelativeDocumentMoniker": "Algoritmos\\Home.cs",
+              "ToolTip": "D:\\Algoritmos\\Algoritmos\\Home.cs",
+              "RelativeToolTip": "Algoritmos\\Home.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAnwCwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T12:43:23.586Z"
+              "WhenOpened": "2025-06-17T12:30:36.781Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Home.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Algoritmos\\Algoritmos\\Home.cs",
+              "RelativeDocumentMoniker": "Algoritmos\\Home.cs",
+              "ToolTip": "D:\\Algoritmos\\Algoritmos\\Home.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Algoritmos\\Home.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:29:49.881Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Algoritmos\\Algoritmos\\Form1.cs",
               "RelativeDocumentMoniker": "Algoritmos\\Form1.cs",
@@ -93,11 +115,12 @@
               "RelativeToolTip": "Algoritmos\\Form1.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAmwCMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T12:47:52.582Z"
+              "WhenOpened": "2025-06-12T12:47:52.582Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "FloodFiller.cs",
               "DocumentMoniker": "D:\\Algoritmos\\Algoritmos\\FloodFiller.cs",
               "RelativeDocumentMoniker": "Algoritmos\\FloodFiller.cs",
@@ -109,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Bresenham.cs",
               "DocumentMoniker": "D:\\Algoritmos\\Algoritmos\\Bresenham.cs",
               "RelativeDocumentMoniker": "Algoritmos\\Bresenham.cs",
@@ -121,7 +144,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Algoritmos\\Algoritmos\\Program.cs",
+              "RelativeDocumentMoniker": "Algoritmos\\Program.cs",
+              "ToolTip": "D:\\Algoritmos\\Algoritmos\\Program.cs",
+              "RelativeToolTip": "Algoritmos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T00:04:42.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Algoritmos\\Algoritmos\\Form1.cs",
+              "RelativeDocumentMoniker": "Algoritmos\\Form1.cs",
+              "ToolTip": "D:\\Algoritmos\\Algoritmos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Algoritmos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:43:23.586Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "DDAC.cs",
               "DocumentMoniker": "D:\\Algoritmos\\Algoritmos\\DDAC.cs",
               "RelativeDocumentMoniker": "Algoritmos\\DDAC.cs",
@@ -133,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MidPointCircle.cs",
               "DocumentMoniker": "D:\\Algoritmos\\Algoritmos\\MidPointCircle.cs",
               "RelativeDocumentMoniker": "Algoritmos\\MidPointCircle.cs",
@@ -141,25 +189,11 @@
               "RelativeToolTip": "Algoritmos\\MidPointCircle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T23:49:27.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T23:49:27.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Algoritmos\\Algoritmos\\Program.cs",
-              "RelativeDocumentMoniker": "Algoritmos\\Program.cs",
-              "ToolTip": "D:\\Algoritmos\\Algoritmos\\Program.cs",
-              "RelativeToolTip": "Algoritmos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T00:04:42.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Form2.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Algoritmos\\Algoritmos\\Form2.cs",
               "RelativeDocumentMoniker": "Algoritmos\\Form2.cs",
@@ -170,29 +204,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Form3.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Algoritmos\\Algoritmos\\Form3.cs",
               "RelativeDocumentMoniker": "Algoritmos\\Form3.cs",
               "ToolTip": "D:\\Algoritmos\\Algoritmos\\Form3.cs [Dise\u00F1o]",
               "RelativeToolTip": "Algoritmos\\Form3.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T00:34:05.563Z"
+              "WhenOpened": "2025-06-12T00:34:05.563Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Form4.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Algoritmos\\Algoritmos\\Form4.cs",
               "RelativeDocumentMoniker": "Algoritmos\\Form4.cs",
               "ToolTip": "D:\\Algoritmos\\Algoritmos\\Form4.cs [Dise\u00F1o]",
               "RelativeToolTip": "Algoritmos\\Form4.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T00:45:11.124Z"
+              "WhenOpened": "2025-06-12T00:45:11.124Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Form3.cs",
               "DocumentMoniker": "D:\\Algoritmos\\Algoritmos\\Form3.cs",
               "RelativeDocumentMoniker": "Algoritmos\\Form3.cs",
@@ -200,11 +236,12 @@
               "RelativeToolTip": "Algoritmos\\Form3.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T00:43:01.176Z"
+              "WhenOpened": "2025-06-12T00:43:01.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Form4.cs",
               "DocumentMoniker": "D:\\Algoritmos\\Algoritmos\\Form4.cs",
               "RelativeDocumentMoniker": "Algoritmos\\Form4.cs",
@@ -212,11 +249,12 @@
               "RelativeToolTip": "Algoritmos\\Form4.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAuwDcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T00:48:48.065Z"
+              "WhenOpened": "2025-06-12T00:48:48.065Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Form2.cs",
               "DocumentMoniker": "D:\\Algoritmos\\Algoritmos\\Form2.cs",
               "RelativeDocumentMoniker": "Algoritmos\\Form2.cs",
